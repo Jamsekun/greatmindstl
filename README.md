@@ -62,18 +62,18 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 ## Additional Installation info (magulo pa) 
-Here's a cleaned-up, organized version for your README.md:
+Here's a cleaned-up, organized version 
 
 ---
 
 # Local Development Setup Guide
 
 ## Prerequisites
-- [Visual Studio Code](https://code.visualstudio.com/) (VS Code)
-- [XAMPP](https://www.apachefriends.org/download.html) (Includes Apache/MySQL)
-- PHP 8.2 ([Installation Guide](https://www.phptutorial.net/php-tutorial/install-php/))
-- [Composer](https://getcomposer.org/download/) (PHP Dependency Manager)
-- [Node.js](https://nodejs.org/) (v18+ recommended, includes npm)
+- [Visual Studio Code](https://code.visualstudio.com/) (VS Code) YT link: 
+- [XAMPP](https://www.apachefriends.org/download.html) (Includes Apache/MySQL) website link: https://www.phptutorial.net/php-tutorial/install-php/
+- PHP 8.2 ([Installation Guide](https://www.phptutorial.net/php-tutorial/install-php/)) YT link: https://www.youtube.com/watch?v=pS0U-PsXUlg
+- [Composer](https://getcomposer.org/download/) (PHP Dependency Manager) YT link: https://www.youtube.com/watch?v=pS0U-PsXUlg
+- [Node.js](https://nodejs.org/) (v18+ recommended, includes npm) YT link: https://www.youtube.com/watch?v=3F5IaPqj7ds
 
 ---
 
